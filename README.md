@@ -37,22 +37,7 @@
   - 热力学第一定律：\( \Delta U = Q - W \)，内能变化等于吸收热量减去对外做功。
   - 热机效率：\( \eta = \frac{W}{Q_1} = 1 - \frac{Q_2}{Q_1} \)，卡诺效率 \( \eta = 1 - \frac{T_2}{T_1} \)。
 
-### 3. **电磁学**
-- **电场**：
-  - 电场强度：\( E = \frac{F}{q} \)，点电荷电场 \( E = \frac{kq}{r^2} \)。
-  - 电势：\( U = \frac{kq}{r} \)，电势能 \( E_p = qU \)。
-  - 电场线：从正电荷指向负电荷，密处场强。
-- **电路**：
-  - 欧姆定律：\( I = \frac{U}{R} \)，全电路 \( U = \varepsilon - Ir \)。
-  - 电功率：\( P = UI = I^2R = \frac{U^2}{R} \)。
-  - 串并联：串联 \( R = R_1 + R_2 \)，并联 \( \frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} \)。
-  - 电容器：\( C = \frac{Q}{U} \)，储能 \( E = \frac{1}{2}CU^2 \)。
-- **磁场**：
-  - 磁感应强度：\( B = \frac{F}{IL \sin\theta} \)。
-  - 洛伦兹力：\( F = qvB \sin\theta \)。
-  - 安培力：\( F = BIL \sin\theta \)。
-  - 电磁感应：法拉第定律 \( \varepsilon = -\frac{\Delta \Phi}{\Delta t} \)，楞次定律判断感应电流方向。
-  - 变压器：\( \frac{U_1}{U_2} = \frac{N_1}{N_2} \)，理想变压器功率守恒。
+<img width="404" height="399" alt="image" src="https://github.com/user-attachments/assets/a963399e-b494-4957-963f-e94693eab724" />
 
 ### 4. **光学**
 - **光的传播**：
