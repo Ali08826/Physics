@@ -1,3 +1,4 @@
+http://peng-lab.org/lab-chinese/zeyue.html  
 # Physics
 #### 高中物理学知识点主要涵盖力学、热学、电磁学、光学和近代物理等核心模块，以下是各部分的要点总结，力求简洁清晰，方便复习和掌握：
 
